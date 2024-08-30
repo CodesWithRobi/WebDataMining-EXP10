@@ -1,6 +1,6 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
-### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
+### DATE: 30-08-2024
+### AIM: To create a project for Sentimental Analysis on Any Dataset Using Rapidminer
 ### Description: 
 <div align = "justify">
 
@@ -27,4 +27,13 @@
 
 ### Output:
 
+![image](https://github.com/user-attachments/assets/26c7a5f0-2ddb-444a-ba65-3f39f75eadd4)
+![image](https://github.com/user-attachments/assets/eea63419-4ec0-4c64-a35a-11e9c2cce35a)
+![image](https://github.com/user-attachments/assets/2de61e6b-6300-4620-863a-e8c0e11124a8)
+![image](https://github.com/user-attachments/assets/6345362b-18be-4082-9fb1-6328db965236)
+![image](https://github.com/user-attachments/assets/8ef5ae7b-4f08-4db4-b66b-982cd7ae621b)
+
+
 ### Result:
+
+Successfully created a project for Sentimental Analysis on Flipkart Dataset Using Rapidminer
